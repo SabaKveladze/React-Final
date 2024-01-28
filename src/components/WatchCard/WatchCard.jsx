@@ -24,11 +24,10 @@ export const WatchCard = ({data}) => {
               { ...existingPost.data, quantity: existingPost.data.quantity + 1 }
              
             );
-                console.log("aeeeeeeeeeeeeeeeee")
-                console.log(existingPost.data)
+                
 
           } else {
-            console.log("bbb");
+            
             // If the post doesn't exist, add it using POST
             const response = await axios.post("http://localhost:3031/cart_list", {
               ...post,

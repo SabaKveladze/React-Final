@@ -13,7 +13,7 @@ const Cart = () => {
     axios
       .get("http://localhost:3031/cart_list")
       .then((data) => setData(data.data));
-    console.log("alioo");
+    
   }, [dataChanged]);
     const items = data
   return (

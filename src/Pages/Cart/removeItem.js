@@ -12,7 +12,7 @@ export const removeItem = async (postId) => {
       const updatedQuantity = existingPost.data.quantity - 1;
 
       if (updatedQuantity > 0) {
-        console.log(updatedQuantity);
+       
 
         // If quantity is more than 2, update it
         const response = await axios.patch(
