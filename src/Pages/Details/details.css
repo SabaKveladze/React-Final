@@ -1,0 +1,45 @@
+.details-page {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  
+  .watch-details {
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    padding: 20px;
+    background-color: #f8f9fa;
+  }
+  
+  .watch-details img {
+    max-width: 250px;
+    height: auto;
+    margin-bottom: 20px;
+  }
+  
+  .watch-details h2 {
+    font-size: 24px;
+    margin-bottom: 10px;
+  }
+  
+  .watch-details p {
+    font-size: 18px;
+    margin-bottom: 10px;
+  }
+  
+  .watch-details strong {
+    font-weight: bold;
+  }
+  
+  .loading-message {
+    text-align: center;
+    font-size: 18px;
+    color: #555;
+  }
+  .homeLink {
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+    border: 1px solid black;
+    background-color: #b3b3b3;
+    padding: 5px;
+  }

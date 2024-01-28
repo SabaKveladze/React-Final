@@ -1,0 +1,125 @@
+{
+  "watches": [
+    {
+      "id": "1",
+      "brand": "Rolex",
+      "name": "Classic Watch",
+      "price": 999.99,
+      "description": "A timeless classic watch suitable for any occasion.",
+      "imgUrl": "https://cdn.thewatchpages.com/app/uploads/2023/04/28101053/rolex-oyster-perpetual-day-date-40-228398tbr-0036-800x1455.jpeg?width=400"
+    },
+    {
+      "id": "2",
+      "brand": "TAG Heuer",
+      "name": "Sports Watch",
+      "price": 1499.99,
+      "description": "A durable and stylish watch designed for sports enthusiasts.",
+      "imgUrl": "https://timeavenue.com/wp-content/uploads/2023/11/14-5-630x840.webp"
+    },
+    {
+      "id": "3",
+      "brand": "Omega",
+      "name": "Luxury Watch",
+      "price": 2999.99,
+      "description": "An elegant luxury watch crafted with precision and sophistication.",
+      "imgUrl": "https://www.chisholmhunter.co.uk/media/catalog/product/cache/5bd6772eb7808e2029bda666cf64b356/2/-/2-027-03-0127_p_1.jpg"
+    },
+    {
+      "id": "4",
+      "brand": "Seiko",
+      "name": "Diver's Watch",
+      "price": 399.99,
+      "description": "A reliable and rugged diver's watch, perfect for underwater adventures.",
+      "imgUrl": "https://d2j6dbq0eux0bg.cloudfront.net/images/16115183/3975899202.jpg"
+    },
+    {
+      "id": "5",
+      "brand": "Citizen",
+      "name": "Chronograph Watch",
+      "price": 499.99,
+      "description": "A stylish chronograph watch with precision timekeeping features.",
+      "imgUrl": "https://www.harveystore.com/cdn/shop/products/CA0780-87Eaa_c3d97f7f-f8c0-46ef-b707-93c22e8419e0_800x.jpg?v=1684889213"
+    },
+    {
+      "id": "6",
+      "brand": "Hamilton",
+      "name": "Pilot Watch",
+      "price": 799.99,
+      "description": "A classic pilot watch with precise timekeeping and aviation-inspired design.",
+      "imgUrl": "https://i.ebayimg.com/images/g/wZIAAOSwSHpiqeLs/s-l1600.webp"
+    },
+    {
+      "id": "7",
+      "brand": "Tissot",
+      "name": "Tactile Watch",
+      "price": 649.99,
+      "description": "A tactile watch with touch-sensitive features and modern styling.",
+      "imgUrl": "https://mazzucchellis.com.au/cdn/shop/products/2010545.jpg?crop=center&height=520&v=1681862634&width=1920"
+    },
+    {
+      "id": "8",
+      "brand": "Panerai",
+      "name": "Dive Watch",
+      "price": 3999.99,
+      "description": "A professional-grade dive watch built for underwater exploration.",
+      "imgUrl": "https://hips.hearstapps.com/hmg-prod/images/panerai-submersible-s-brabus-blue-shadow-edition-embargo-28th-april-22-2-1651156713.jpg?resize=980:*"
+    },
+    {
+      "id": "9",
+      "brand": "Breitling",
+      "name": "Aviator Watch",
+      "price": 1499.99,
+      "description": "An aviator watch with precise chronograph functions and rugged design.",
+      "imgUrl": "https://i.ebayimg.com/images/g/IjUAAOSwuM5krbZZ/s-l1600.webp"
+    },
+    {
+      "id": "10",
+      "brand": "Longines",
+      "name": "Heritage Watch",
+      "price": 899.99,
+      "description": "A heritage-inspired watch with vintage charm and modern reliability.",
+      "imgUrl": "https://api.ecom.longines.com/media/catalog/product/w/a/watch-collection-conquest-heritage-l1-649-4-72-2-1697812210.png"
+    },
+    {
+      "id": "11",
+      "brand": "Casio",
+      "name": "Digital Watch",
+      "price": 59.99,
+      "description": "A versatile digital watch with multiple functionalities.",
+      "imgUrl": "https://i.ebayimg.com/thumbs/images/g/rwQAAOSw6F9kUEvT/s-l500.jpg"
+    },
+    {
+      "id": "12",
+      "brand": "Fossil",
+      "name": "Smartwatch",
+      "price": 199.99,
+      "description": "A modern smartwatch with fitness tracking and notification features.",
+      "imgUrl": "https://i.ebayimg.com/thumbs/images/g/5iMAAOSwqNtlCJbB/s-l500.jpg"
+    },
+    {
+      "id": "13",
+      "brand": "Bulova",
+      "name": "Dress Watch",
+      "price": 249.99,
+      "description": "An elegant dress watch suitable for formal occasions.",
+      "imgUrl": "https://i.ebayimg.com/images/g/OhkAAOSwwfVkHN1O/s-l1600.webp"
+    },
+    {
+      "id": "14",
+      "brand": "Timex",
+      "name": "Field Watch",
+      "price": 79.99,
+      "description": "A rugged field watch designed for outdoor adventures.",
+      "imgUrl": "https://i.ebayimg.com/thumbs/images/g/DV0AAOSwT6RlANMP/s-l500.jpg"
+    },
+    {
+      "id": "15",
+      "brand": "Swatch",
+      "name": "Fashion Watch",
+      "price": 39.99,
+      "description": "A trendy fashion watch to complement your everyday style.",
+      "imgUrl": "https://i.ebayimg.com/images/g/mhgAAOSwvbxlPESl/s-l1600.webp"
+    }
+  ],
+  "cart_list": []
+}

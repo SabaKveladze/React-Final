@@ -1,0 +1,68 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+
+.cartImg {
+    width: 30px;
+    height: 30px;
+    background-color: white;
+}
+.cartDiv {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    background-color: white;
+    width: 150px;
+    border-radius: 10px;
+}
+
+section {
+    padding: 20px;
+}
+
+.newsletter {
+    background-color: #eee;
+    text-align: center;
+}
+
+form {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 20px;
+   
+}
+.registration-form form {
+    display: flex;
+    gap: 20px;
+    flex-direction: column;
+}
+input {
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    margin-right: 10px;
+}
+
+
+
+button[type="submit"]:hover {
+    background-color: #555;
+}
+
+.watches {
+    width: 150px;
+    height: 150px;
+}
+.add-to-cart,.price,.describe {
+    margin: 8px 0px;
+}
+h5 {
+    margin-left: 40%;
+}
+.subBtn {
+    margin-top: 7px;
+}
