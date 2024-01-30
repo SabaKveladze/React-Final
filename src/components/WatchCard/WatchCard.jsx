@@ -1,4 +1,4 @@
-import { Navigate } from 'react-router-dom'
+
 import './watchcard.css'
 import { Link } from 'react-router-dom'
 import axios from 'axios'

@@ -47,7 +47,10 @@ input {
     margin-right: 10px;
 }
 
-
+.search{
+    margin-left: 43%;
+    margin-top: 15px;
+}
 
 button[type="submit"]:hover {
     background-color: #555;
